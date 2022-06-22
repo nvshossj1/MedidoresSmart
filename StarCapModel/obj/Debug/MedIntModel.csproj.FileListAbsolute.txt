@@ -1,0 +1,6 @@
+C:\Users\ignac\OneDrive\Escritorio\CShap-AP-11--170-main\StarCap\StarCapModel\bin\Debug\StarCapModel.dll
+C:\Users\ignac\OneDrive\Escritorio\CShap-AP-11--170-main\StarCap\StarCapModel\bin\Debug\StarCapModel.pdb
+C:\Users\ignac\OneDrive\Escritorio\CShap-AP-11--170-main\StarCap\StarCapModel\obj\Debug\MedIntModel.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\CShap-AP-11--170-main\StarCap\StarCapModel\obj\Debug\MedIntModel.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\CShap-AP-11--170-main\StarCap\StarCapModel\obj\Debug\StarCapModel.dll
+C:\Users\ignac\OneDrive\Escritorio\CShap-AP-11--170-main\StarCap\StarCapModel\obj\Debug\StarCapModel.pdb
